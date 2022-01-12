@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Andreas Löhe and i am currently an employee of paydirekt GmbH which provides the payment service paydirekt and giropay for german online payments.
+I am Andreas Löhe and i am currently an employee of Accenture.
 
 # 🔭 I’m currently working on ...
 
